@@ -1,4 +1,4 @@
-# hikr
+## hikr
 Pronounced "hiker" (/ˈhaɪkə(r)/), hikr is a basic hike-tracking app.
 
 ![Screen cap](https://github.com/fusetools/hikr/blob/master/hikr.gif)
